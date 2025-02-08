@@ -4,7 +4,7 @@ I'm a Web Development student at Humber Polytechnic, passionate about coding and
 
 ## 💻 About Me  
 - 🎓 Studying **Web Development** at Humber Polytechnic  
-- 🌱 Currently learning **C#, JavaScript, SQL**  
+- 🌱 Currently learning **C#, JavaScript, SQL, HTML, CSS**  
 - 🔥 Interested in **Full-Stack Development**  
 - 🛠️ Exploring **Front-End & Back-End technologies**  
 
