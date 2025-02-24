@@ -15,7 +15,7 @@ I'm a Web Development student at Humber Polytechnic, passionate about coding and
 - **Tools:** Visual Studio, Git, GitHub  
 
 ## 📫 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/abraham-adeniyi-1489931a8/) (Adeniyi Abraham)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/abraham-adeniyi/) (Adeniyi Abraham)  
 <!--
 - 📝 [Portfolio](#) (Add your portfolio link)  
 -->
