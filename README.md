@@ -15,9 +15,7 @@ I'm **Abraham Adeniyi**, a Web Development student at **Humber Polytechnic**, pa
 
 ## 🛠️ Tech Stack  
 
-**Languages & Frameworks**  
-- JavaScript (ES6+), C#, SQL  
-- ASP.NET Core, Node.js, Express.js  
+- *Languages & Frameworks* JavaScript (ES6+), C#, SQL, ASP.NET Core, Node.js, Express.js  
 
 **Web Development**  
 - HTML5, CSS3, React.js, Bootstrap, Tailwind CSS  
