@@ -45,12 +45,4 @@ I'm **Abraham Adeniyi**, a Web Development student at **Humber Polytechnic**, pa
 ---
 
 ### 🔧 Tools I Use  
-<img src="https://console.codeadam.ca/api/image/markdown" width="60">  
-<img src="https://console.codeadam.ca/api/image/github" width="60">  
-<img src="https://console.codeadam.ca/api/image/html" width="60">  
-<img src="https://console.codeadam.ca/api/image/css" width="60">  
-<img src="https://console.codeadam.ca/api/image/javascript" width="60">  
-<img src="https://console.codeadam.ca/api/image/git" width="60">  
-<img src="https://console.codeadam.ca/api/image/c#" width="60">  
-<img src="https://console.codeadam.ca/api/image/mysql" width="60">  
-<img src="https://console.codeadam.ca/api/image/nodejs" width="60">  
+<img src="https://console.codeadam.ca/api/image/markdown" width="60"> <img src="https://console.codeadam.ca/api/image/github" width="60"> <img src="https://console.codeadam.ca/api/image/html" width="60"> <img src="https://console.codeadam.ca/api/image/css" width="60"> <img src="https://console.codeadam.ca/api/image/javascript" width="60"> <img src="https://console.codeadam.ca/api/image/git" width="60"> <img src="https://console.codeadam.ca/api/image/c#" width="60"> <img src="https://console.codeadam.ca/api/image/mysql" width="60"> <img src="https://console.codeadam.ca/api/image/nodejs" width="60"> 
