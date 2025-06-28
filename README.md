@@ -15,19 +15,15 @@ I'm **Abraham Adeniyi**, a Web Development student at **Humber Polytechnic**, pa
 
 ## 🛠️ Tech Stack  
 
-- *Languages & Frameworks* JavaScript (ES6+), C#, SQL, ASP.NET Core, Node.js, Express.js  
+**Languages & Frameworks:** JavaScript (ES6+), C#, SQL, ASP.NET Core, Node.js, Express.js  
 
-**Web Development**  
-- HTML5, CSS3, React.js, Bootstrap, Tailwind CSS  
+**Web Development:** HTML5, CSS3, React.js, Bootstrap, Tailwind CSS  
 
-**Databases**  
-- MySQL, MongoDB, Mongoose  
+**Databases:** MySQL, MongoDB, Mongoose  
 
-**Testing & Tools**  
-- Cypress, Jasmine, Postman, Git, GitHub, Docker  
+**Testing & Tools:** Cypress, Jasmine, Postman, Git, GitHub, Docker  
 
-**Other Tools**  
-- Visual Studio, VS Code, Firebase, Figma, Adobe CC  
+**Other Tools:** Visual Studio, VS Code, Firebase, Figma, Adobe CC  
 
 ---
 
