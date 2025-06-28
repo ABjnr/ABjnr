@@ -7,7 +7,7 @@ I'm **Abraham Adeniyi**, a Web Development student at **Humber Polytechnic**, pa
 ## 💻 About Me  
 - 🎓 Web Development @ Humber Polytechnic  
 - 🏆 Dean’s Honour List (Winter 2025)  
-- 🌱 Currently learning: **C#, ASP.NET Core, JavaScript, SQL, Docker**  
+- 🌱 Currently learning: **C#, ASP.NET Core, Express.js, Docker**  
 - 🔍 Exploring: **API development, database design, and test automation**  
 - 🚀 Goal: Build clean, scalable, and testable software  
 
